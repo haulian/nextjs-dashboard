@@ -1,0 +1,12 @@
+1. create-next-app
+
+2. import global.css
+
+3. import fonts and images
+
+4. layout and pages
+
+5. Navigating between pages
+
+6. Set up database
+
